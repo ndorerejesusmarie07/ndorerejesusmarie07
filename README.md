@@ -16,7 +16,7 @@ Bujumbura, Burundi
 ### About Me / À propos de moi
 
 **EN:**  
-I am **NDORERE Jésus Marie** (also known as **NDORERE Jesus-M**), a Computer Engineering student based in Bujumbura, Burundi, and a developer specializing in **Full-Stack Web Development, Artificial Intelligence, and Workflow Automation**. I design, build, and deploy scalable web platforms, financial market analysis tools, and automated media-processing systems.
+I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbura, Burundi, and a developer specializing in **Full-Stack Web Development, Artificial Intelligence, and Workflow Automation**. I design, build, and deploy scalable web platforms, financial market analysis tools, and automated media-processing systems.
 
 ---
 
