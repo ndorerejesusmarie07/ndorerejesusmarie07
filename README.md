@@ -1,10 +1,10 @@
 <div align="center">
 
-# NDORERE Jésus Marie 
+# NDORERE Jésus Marie
 
 **Computer Engineering Student • Full-Stack Web Developer • AI & Automation Engineer**
 
- Bujumbura, Burundi  
+Bujumbura, Burundi
 
 [![Pixplay](https://img.shields.io/badge/Platform-Pixplay-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixplaylite.xyz)
 [![BitTickPro](https://img.shields.io/badge/App-BitTickPro-10B981?style=for-the-badge&logo=python&logoColor=white)](https://bittickpro.onrender.com)
@@ -13,21 +13,20 @@
 
 ---
 
-###  About Me / À propos de moi
+### About Me / À propos de moi
 
 **EN:**  
 I am **NDORERE Jésus Marie** (also known as **NDORERE Jesus-M**), a Computer Engineering student based in Bujumbura, Burundi, and a developer specializing in **Full-Stack Web Development, Artificial Intelligence, and Workflow Automation**. I design, build, and deploy scalable web platforms, financial market analysis tools, and automated media-processing systems.
-
 
 ---
 
 ### 🚀 Featured Projects & Platforms / Projets Principaux
 
-| Project / Projet | Live Link / Lien | Description | Technologies |
+| Project / Projet | Live Link / Repo | Description | Technologies |
 | :--- | :--- | :--- | :--- |
 | **Pixplay** | [pixplaylite.xyz](https://pixplaylite.xyz) • [pixplay.42web.io](https://pixplay.42web.io) | Digital entertainment and media web platform with a companion Android WebView ecosystem (`com.pixplay.app`). | `HTML5` `CSS3` `JavaScript` `PHP` `Kotlin` |
 | **BitTickPro / BitTick** | [bittickpro.onrender.com](https://bittickpro.onrender.com) • [bittick.onrender.com](https://bittick.onrender.com) | Automated cryptocurrency market analysis and trading web application with Telegram webhook integration. | `Python` `Flask` `SQLAlchemy` `PostgreSQL` |
-| **AI & Media Automation Bots** | *Automation Suite* | Automated video slicing, short-form content processing, and Telegram bot pipelines (`ClipSD`, `ai-drama-bot`). | `Python` `FFmpeg` `MoviePy` `yt-dlp` |
+| **ClipSD** | [ndorerejesusmarie07/ClipSD](https://github.com/ndorerejesusmarie07/ClipSD) | Automated video slicing, short-form content processing, and media automation tool. | `Python` `FFmpeg` `MoviePy` `yt-dlp` |
 
 ---
 
@@ -44,10 +43,11 @@ I am **NDORERE Jésus Marie** (also known as **NDORERE Jesus-M**), a Computer En
 
 * 🌐 **Pixplay Official:** [https://pixplaylite.xyz](https://pixplaylite.xyz)
 * 📈 **BitTickPro Platform:** [https://bittickpro.onrender.com](https://bittickpro.onrender.com)
-* 💻 **GitHub Profile:** [[https://github.com/ndorerejesusmarie07](https://github.com/ndorerejesusmarie07) 
+* 📦 **ClipSD Repository:** [https://github.com/ndorerejesusmarie07/ClipSD](https://github.com/ndorerejesusmarie07/ClipSD)
+* 💻 **GitHub Profile:** [https://github.com/ndorerejesusmarie07](https://github.com/ndorerejesusmarie07)
 
 ---
 
 <div align="center">
-  <sub>Conçu et développé par <strong>NDORERE Jésus Marie </strong> — Bujumbura, Burundi</sub>
+  <sub>Conçu et développé par <strong>NDORERE Jésus Marie</strong> — Bujumbura, Burundi</sub>
 </div>
