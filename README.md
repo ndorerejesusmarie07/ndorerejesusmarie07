@@ -20,7 +20,7 @@ I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbur
 
 ---
 
-### 🚀 Featured Projects & Platforms / Projets Principaux
+###  Featured Projects & Platforms / Projets Principaux
 
 | Project / Projet | Live Link / Repo | Description | Technologies |
 | :--- | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbur
 
 ---
 
-### 🛠️ Technical Stack / Compétences Techniques
+###  Technical Stack / Compétences Techniques
 
 * **Languages:** `Python` • `Java` • `C++` • `PHP` • `JavaScript` • `Kotlin` • `SQL`
 * **Web & Backend:** `Flask` • `Django` • `HTML5` • `CSS3` • `REST APIs` • `Telegram Webhooks`
