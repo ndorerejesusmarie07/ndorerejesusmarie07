@@ -8,7 +8,7 @@ Bujumbura, Burundi
 
 [![Pixplay](https://img.shields.io/badge/Platform-Pixplay-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixplaylite.xyz)
 [![BitTickPro](https://img.shields.io/badge/App-BitTickPro-10B981?style=for-the-badge&logo=python&logoColor=white)](https://bitpro.onrender.com)
-
+[![clipSD](https://img.shields.io/badge/App-BitTickPro-10B981?style=for-the-badge&logo=python&logoColor=white)](https://clipsd.vercel.app)
 </div>
 
 ---
@@ -20,7 +20,7 @@ I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbur
 
 ---
 
-### 🚀 Featured Projects & Platforms / Projets Principaux
+### Featured Projects & Platforms / Projets Principaux
 
 | Project / Projet | Live Link / Repo | Description | Technologies |
 | :--- | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbur
 
 ---
 
-### 🛠️ Technical Stack / Compétences Techniques
+###  Technical Stack / Compétences Techniques
 
 * **Languages:** `Python` • `Java` • `C++` • `PHP` • `JavaScript` • `Kotlin` • `SQL`
 * **Web & Backend:** `Flask` • `Django` • `HTML5` • `CSS3` • `REST APIs` • `Telegram Webhooks`
@@ -42,7 +42,7 @@ I am **NDORERE Jésus Marie** , a Computer Engineering student based in Bujumbur
 ### 🔗 Official Links & Presence / Liens Officiels
 
 * 🌐 **Pixplay Official:** [https://pixplaylite.xyz](https://pixplaylite.xyz)
-* 📈 **BitTickPro Platform:** [https://bittickpro.onrender.com](https://bitpro.onrender.com)
+* 📈 **BitTickPro Platform:** [https://bitpro.onrender.com](https://bitpro.onrender.com)
 * 📦 **ClipSD Repository:** [https://clipsd.vercel.app](https://clipsd.vercel.app)
 * 💻 **GitHub Profile:** [https://github.com/ndorerejesusmarie07](https://github.com/ndorerejesusmarie07)
 
